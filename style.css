@@ -6,14 +6,14 @@ body {
 }
 
 a {
-    color: #3E4095;
+    color: #006736;
     -webkit-transition: all 500ms;
     transition: all 500ms
 }
 
 a:hover,
 a:focus {
-    color: #3E4095;
+    color: #006736;
     text-decoration: none;
     outline: 0
 }
@@ -128,7 +128,7 @@ p.lead {
 .btn {
     color: #1d1d1d;
     padding: 14px 30px;
-    background: #3E4095;
+    background: #006736;
     -webkit-border-radius: 4px;
     border-radius: 4px;
     font-weight: 700;
@@ -147,23 +147,23 @@ p.lead {
 }
 
 .btnn:hover {
-    background: #5253AE;
+    background: #00A354;
     color: #1d1d1d
 }
 
 .btn:hover {
-    background: #5253AE;
+    background: #00A354;
     color: #1d1d1d
 }
 
 .btn2 {
-    border: 1px solid #3E4095;
+    border: 1px solid #006736;
     background: 0 0;
     color: #fff
 }
 
 .btn2:hover {
-    background: #3E4095;
+    background: #006736;
     color: #fff
 }
 
@@ -186,9 +186,9 @@ p.lead {
 }
 
 .btn4:hover {
-    background: #3E4095;
+    background: #006736;
     color: #fff;
-    border: 1px solid #3E4095
+    border: 1px solid #006736
 }
 
 .empty-15 {
@@ -244,7 +244,8 @@ p.lead {
     margin-bottom: 0;
     color: #1d1d1d;
     display: table;
-    width: 100%
+    width: 100%;
+    padding-top: 30px;
 }
 
 .sec-title h1+h3 {
@@ -278,7 +279,7 @@ p.lead {
     outline: 0;
     -webkit-border-radius: 50%;
     border-radius: 50%;
-    background: #3E4095
+    background: #006736
 }
 
 .owl-carousel .owl-dots button.active {
@@ -314,12 +315,12 @@ p.lead {
 }
 
 .accent-color {
-    color: #3E4095 !important
+    color: #006736 !important
 }
 
 blockquote {
     padding: 30px;
-    border-left: 3px solid #3E4095;
+    border-left: 3px solid #006736;
     font-size: 24px;
     background: #f5f5f5;
     line-height: 1.4;
@@ -446,20 +447,20 @@ nav ul li a {
 
 nav ul li a:hover,
 nav ul li.active a {
-    color: #3E4095;
+    color: #006736;
     text-decoration: none
 }
 
 nav ul li.nav-btn a {
     color: #1d1d1d;
     padding: 10px 32px;
-    background: #3E4095;
+    background: #006736;
     -webkit-border-radius: 4px;
     border-radius: 4px
 }
 
 nav ul li.nav-btn a:hover {
-    background: #5253AE;
+    background: #00A354;
     color: #1d1d1d
 }
 
@@ -479,7 +480,7 @@ header.fixed {
 .fixed nav ul li.active a,
 .light nav ul li a:hover,
 .light nav ul li.active a {
-    color: #3E4095
+    color: #006736
 }
 
 .fixed nav ul li.nav-btn a:hover,
@@ -547,7 +548,7 @@ header.fixed {
 
 .hero-left h1 span {
     font-weight: 300;
-    color: #3E4095
+    color: #006736
 }
 
 .hero-left p {
@@ -556,7 +557,7 @@ header.fixed {
 
 .hero-caption h1 span {
     font-weight: 300;
-    color: #3E4095
+    color: #006736
 }
 
 .hero-left .hero-btns {
@@ -588,7 +589,7 @@ header.fixed {
     padding: 30px;
     padding-top: 0;
     padding-bottom: 0;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3E4095', endColorstr='#003E4095', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#006736', endColorstr='#00006736', GradientType=0);
     bottom: 0;
     position: relative;
     height: 100vh;
@@ -645,7 +646,7 @@ header.fixed {
 
 #clock li+li:before,
 #clock li+li:after {
-    background: #3E4095;
+    background: #006736;
     position: absolute;
     top: 50%;
     left: -3px;
@@ -700,7 +701,7 @@ header.fixed {
 
 #clockk li+li:before,
 #clockk li+li:after {
-    background: #3E4095;
+    background: #006736;
     position: absolute;
     top: 50%;
     left: -3px;
@@ -767,21 +768,21 @@ header.fixed {
     background: -moz-linear-gradient(top, #000000 0%, #3a3a3a 100%);
     background: -webkit-linear-gradient(top, #000000 0%, #3a3a3a 100%);
     background: linear-gradient(to bottom, #000000 0%, #3a3a3a 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3E4095', endColorstr='#003E4095', GradientType=0)
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#006736', endColorstr='#00006736', GradientType=0)
 }
 
 .rang-line span {
     position: absolute;
     left: 0;
     top: 0;
-    background: #3E4095;
+    background: #006736;
     width: 40%;
     height: 100%
 }
 
 .rang-line:before,
 .rang-line span:before {
-    border-color: #3E4095
+    border-color: #006736
 }
 
 .rang-line:after,
@@ -976,7 +977,7 @@ header.fixed {
 
 .carbon-layout .hero-main h1 span {
     font-weight: 300;
-    color: #3E4095
+    color: #006736
 }
 
 .carbon-layout .hero-main:before {
@@ -1006,7 +1007,7 @@ header.fixed {
     width: 100%;
     left: 0;
     right: 0;
-    background: #3E4095
+    background: #006736
 }
 
 .c-logo {
@@ -1106,7 +1107,7 @@ header.fixed {
 
 .diamond-layout.hero-main h1 span {
     font-weight: 300;
-    color: #3E4095
+    color: #006736
 }
 
 .diamond-layout.hero-main h1 {
@@ -2272,7 +2273,7 @@ img.play-btn-img {
 }
 
 .watch-link:hover i {
-    background: #3E4095;
+    background: #006736;
     color: #fff
 }
 
@@ -2282,10 +2283,10 @@ img.play-btn-img {
     line-height: 50px;
     display: inline-block;
     vertical-align: middle;
-    border: 2px solid #3E4095;
+    border: 2px solid #006736;
     border-radius: 50%;
     text-align: center;
-    color: #3E4095;
+    color: #006736;
     -webkit-transition: all 500ms;
     transition: all 500ms
 }
@@ -2331,7 +2332,7 @@ h2.section-heading {
 }
 
 h2.section-heading span {
-    color: #3E4095;
+    color: #006736;
     font-weight: 700
 }
 
@@ -2412,7 +2413,7 @@ h2.section-heading span {
 }
 
 .tab-section .nav-tabs .nav-link:after {
-    background: #3E4095;
+    background: #006736;
     height: 3px;
     content: "";
     position: absolute;
@@ -2429,7 +2430,7 @@ h2.section-heading span {
 .tab-section .nav-tabs .nav-link:focus {
     border-color: transparent;
     background-color: transparent;
-    color: #3E4095
+    color: #006736
 }
 
 .tab-section .nav-tabs .nav-link.active:after,
@@ -2450,7 +2451,7 @@ h2.section-heading span {
 }
 
 .diamond-icon:before {
-    background: url(images/blue-animation-icon.png) no-repeat scroll 0 0;
+    background: url(images/coinpool-dots-circle.png) no-repeat scroll 0 0;
     content: "";
     height: 370px;
     width: 370px;
@@ -2702,7 +2703,7 @@ h2.section-heading span {
 
 .our-mission-boxes .col:hover span,
 .our-mission-boxes .col:hover h4 {
-    color: #3E4095
+    color: #006736
 }
 
 .our-mission-boxes .col:hover p {
@@ -2765,7 +2766,7 @@ h2.section-heading span {
 }
 
 .benefits-boxes .item:hover {
-    border-color: #5253AE
+    border-color: #00A354
 }
 
 .benefits-box {
@@ -2839,7 +2840,7 @@ h2.section-heading span {
 
 .white-sec .benefits-box .bf-icon {
     background: 0 0;
-    border: 2px solid #3E4095;
+    border: 2px solid #006736;
     -webkit-border-radius: 6px;
     border-radius: 6px
 }
@@ -2861,7 +2862,7 @@ h2.section-heading span {
 .banafits-circle {
     height: 440px;
     width: 440px;
-    border: 8px solid #3E4095;
+    border: 8px solid #006736;
     position: relative;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -2938,7 +2939,10 @@ h2.section-heading span {
     width: 100px;
     height: 100px;
     padding: 18px;
-    margin: 15px auto 0
+    margin: 15px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .banafits-list-items .banafits-item:first-child {
@@ -3112,7 +3116,7 @@ h2.section-heading span {
 }
 
 .mercury-layout .benefit-icon:hover {
-    background-color: #3E4095
+    background-color: #006736
 }
 
 .token-sale {
@@ -3121,7 +3125,7 @@ h2.section-heading span {
 }
 
 .sale-box-inner {
-    border: 3px solid #3E4095;
+    border: 3px solid #006736;
     text-align: center;
     color: #fff;
     -webkit-border-radius: 7px;
@@ -3131,7 +3135,7 @@ h2.section-heading span {
 }
 
 .sale-box-head {
-    background: #3E4095;
+    background: #006736;
     padding: 15px 5px
 }
 
@@ -3164,7 +3168,7 @@ h2.section-heading span {
 }
 
 .sale-box-desc li:first-child span {
-    color: #3E4095
+    color: #006736
 }
 
 .sale-box:hover .sale-box-inner {
@@ -3173,31 +3177,31 @@ h2.section-heading span {
 }
 
 .sale-box:nth-child(2) .sale-box-head {
-    background: #3E4095
+    background: #006736
 }
 
 .sale-box:nth-child(2) .sale-box-desc li:first-child span {
-    color: #3E4095
+    color: #006736
 }
 
 .sale-box:nth-child(2) .sale-box-inner {
-    border-color: #3E4095
+    border-color: #006736
 }
 
 .sale-box:nth-child(3) .sale-box-inner {
-    border-color: #5253AE
+    border-color: #00A354
 }
 
 .sale-box:nth-child(3) .sale-box-head {
-    background: #5253AE
+    background: #00A354
 }
 
 .sale-box:nth-child(3) .sale-box-desc li:first-child span {
-    color: #5253AE
+    color: #00A354
 }
 
 .token-sale-box {
-    background: #3E4095;
+    background: #006736;
     padding: 30px;
     border-radius: 0;
     color: #1d1d1d
@@ -3256,7 +3260,7 @@ h2.section-heading span {
 
 .token-progress .progress-bar {
     border-radius: 8px;
-    background-color: #3E4095
+    background-color: #006736
 }
 
 .token-progress.stag-1 .progress-bar {
@@ -3264,15 +3268,15 @@ h2.section-heading span {
 }
 
 .token-progress.stag-2 .progress-bar {
-    background-color: #3E4095
+    background-color: #006736
 }
 
 .token-progress.stag-3 .progress-bar {
-    background-color: #3E4095
+    background-color: #006736
 }
 
 .token-progress.stag-4 .progress-bar {
-    background-color: #5253AE
+    background-color: #00A354
 }
 
 .token-progress.stag-5 .progress-bar {
@@ -3284,7 +3288,7 @@ h2.section-heading span {
     font-size: 13px;
     text-align: right;
     width: 100%;
-    color: #3E4095;
+    color: #006736;
     font-weight: 700
 }
 
@@ -3293,15 +3297,15 @@ h2.section-heading span {
 }
 
 .token-progress.stag-2 .day-left {
-    color: #3E4095
+    color: #006736
 }
 
 .token-progress.stag-3 .day-left {
-    color: #3E4095
+    color: #006736
 }
 
 .token-progress.stag-4 .day-left {
-    color: #5253AE
+    color: #00A354
 }
 
 .token-progress.stag-5 .day-left {
@@ -3313,7 +3317,7 @@ h2.section-heading span {
 }
 
 .we-accept-this h6 span {
-    color: #3E4095;
+    color: #006736;
     font-weight: 700
 }
 
@@ -3336,7 +3340,7 @@ h2.section-heading span {
 }
 
 .token-struc-left p {
-    color: #3E4095
+    color: #006736
 }
 
 .token-struc-left span {
@@ -3468,7 +3472,7 @@ h2.section-heading span {
 }
 
 .token-allocation-box .sale-list .price-tag span {
-    color: #3E4095;
+    color: #006736;
     display: block;
     font-weight: 700
 }
@@ -3484,7 +3488,7 @@ h2.section-heading span {
 }
 
 .livefeed-list li span {
-    color: #3E4095;
+    color: #006736;
     font-weight: 700
 }
 
@@ -3495,7 +3499,7 @@ h2.section-heading span {
 }
 
 .diamond-layout .token-allocation-box {
-    background: #3E4095;
+    background: #006736;
     -webkit-border-radius: 0;
     border-radius: 0;
     -webkit-box-shadow: none;
@@ -3667,7 +3671,7 @@ ul.allocation-list li:nth-child(7):before {
 
 .allocation-list-point li span {
     position: absolute;
-    background: #3E4095;
+    background: #006736;
     padding: 8px 15px;
     z-index: 1;
     color: #fff;
@@ -3686,43 +3690,43 @@ ul.allocation-list li:nth-child(7):before {
 
 .allocation-list-point li:first-child {
     transform: rotate(0deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 1
 }
 
 .allocation-list-point li:nth-child(2) {
     transform: rotate(51.4285deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 2
 }
 
 .allocation-list-point li:nth-child(3) {
     transform: rotate(102.857deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 3
 }
 
 .allocation-list-point li:nth-child(4) {
     transform: rotate(154.2855deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 4
 }
 
 .allocation-list-point li:nth-child(5) {
     transform: rotate(205.714deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 5
 }
 
 .allocation-list-point li:nth-child(6) {
     transform: rotate(257.1425deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 6
 }
 
 .allocation-list-point li:nth-child(7) {
     transform: rotate(308.5710deg) skewY(-60deg);
-    border-left: 2px solid #3E4095;
+    border-left: 2px solid #006736;
     z-index: 7
 }
 
@@ -3730,7 +3734,7 @@ ul.allocation-list li:nth-child(7):before {
     width: 480px;
     height: 480px;
     position: relative;
-    border: 2px solid #3E4095;
+    border: 2px solid #006736;
     border-radius: 480px;
     margin: auto
 }
@@ -3748,7 +3752,7 @@ ul.allocation-list li:nth-child(7):before {
     width: 240px;
     height: 240px;
     position: absolute;
-    border: 2px solid #3E4095;
+    border: 2px solid #006736;
     border-radius: 240px;
     content: "";
     transform: translate(-50%, -50%);
@@ -3760,7 +3764,7 @@ ul.allocation-list li:nth-child(7):before {
     width: 360px;
     height: 360px;
     position: absolute;
-    border: 2px solid #3E4095;
+    border: 2px solid #006736;
     border-radius: 360px;
     content: "";
     transform: translate(-50%, -50%);
@@ -3769,7 +3773,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .allocation-list-point li .point {
-    background: #3E4095;
+    background: #006736;
     height: 20px;
     width: 20px;
     content: "";
@@ -3911,7 +3915,7 @@ ul.allocation-list li:nth-child(7):before {
 .roadmap-sec {
     width: 100%;
     clear: both;
-    border-top: 5px solid #3E4095;
+    border-top: 5px solid #006736;
     background-image: url(images/map-bg.html);
     background-repeat: no-repeat;
     background-color: #000;
@@ -3930,7 +3934,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .roadmap-slider .owl-item span {
-    color: #3E4095;
+    color: #006736;
     font-size: 18px;
     line-height: 28px;
     font-weight: 700;
@@ -3946,7 +3950,7 @@ ul.allocation-list li:nth-child(7):before {
     left: 0;
     right: 0;
     top: 77px;
-    background: #3E4095;
+    background: #006736;
     width: 18px;
     height: 18px;
     margin: auto;
@@ -4025,11 +4029,11 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .roadmap-item.done .title:before {
-    background: #3E4095
+    background: #006736
 }
 
 .roadmap-item.active .title:before {
-    background: #3E4095;
+    background: #006736;
     -webkit-animation: blink 2s linear infinite;
     -moz-animation: blink 2s linear infinite;
     -ms-animation: blink 2s linear infinite;
@@ -4066,7 +4070,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .roadmap-item .title span {
-    color: #3E4095;
+    color: #006736;
     font-size: 18px;
     font-weight: 700
 }
@@ -4103,7 +4107,7 @@ ul.allocation-list li:nth-child(7):before {
     color: #000;
     font-size: 16px;
     white-space: nowrap;
-    background: #3E4095;
+    background: #006736;
     padding: 5px 15px;
     font-family: poppins, sans-serif;
     font-weight: 600;
@@ -4115,7 +4119,7 @@ ul.allocation-list li:nth-child(7):before {
     width: 0;
     height: 0;
     border-top: 8px solid transparent;
-    border-right: 13px solid #3E4095;
+    border-right: 13px solid #006736;
     border-bottom: 8px solid transparent;
     content: "";
     display: block;
@@ -4135,7 +4139,7 @@ ul.allocation-list li:nth-child(7):before {
 
 .roadmap-item:nth-child(2n+1) .roadmap-day:after {
     border-top: 8px solid transparent;
-    border-left: 13px solid #3E4095;
+    border-left: 13px solid #006736;
     border-right: none;
     border-bottom: 8px solid transparent;
     content: "";
@@ -4171,7 +4175,7 @@ ul.allocation-list li:nth-child(7):before {
     position: absolute;
     width: 18px;
     height: 18px;
-    background: #3E4095;
+    background: #006736;
     border-radius: 100%;
     top: 50%;
     right: -9px;
@@ -4186,7 +4190,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .roadmap-item-text h4 {
-    color: #3E4095
+    color: #006736
 }
 
 .circle-ripple {
@@ -4255,7 +4259,7 @@ ul.allocation-list li:nth-child(7):before {
     left: 50%;
     transform: translateX(-50%);
     border: 6px solid #fff;
-    box-shadow: 0 0 0 2px #5253AE
+    box-shadow: 0 0 0 2px #00A354
 }
 
 .horizontal-roadmap .roadmap-icon:after {
@@ -4275,13 +4279,13 @@ ul.allocation-list li:nth-child(7):before {
     bottom: 100%;
     margin-top: 0;
     margin-bottom: 7px;
-    background: #5253AE
+    background: #00A354
 }
 
 .horizontal-roadmap .roadmap-item.even .roadmap-icon {
     top: auto;
     bottom: 15px;
-    background: #5253AE;
+    background: #00A354;
     box-shadow: 0 0 0 2px #000
 }
 
@@ -4351,13 +4355,13 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .horizontal-roadmap .roadmap-item.even:after {
-    background: #3E4095;
+    background: #006736;
     top: auto;
     bottom: 179px
 }
 
 .horizontal-roadmap .roadmap-item.even:before {
-    border-top: 12px solid #3E4095;
+    border-top: 12px solid #006736;
     border-bottom: 0;
     top: auto;
     bottom: 168px
@@ -4396,7 +4400,7 @@ ul.allocation-list li:nth-child(7):before {
     content: "";
     border: 5px solid #000;
     position: absolute;
-    background: #3E4095;
+    background: #006736;
     -webkit-border-radius: 50px;
     border-radius: 50px;
     left: 50%;
@@ -4468,7 +4472,7 @@ ul.allocation-list li:nth-child(7):before {
 .roadmap-live-slider .roadmap-item.slick-current div {
     -webkit-transition: all 300ms ease-in;
     transition: all 300ms ease-in;
-    background: #3E4095;
+    background: #006736;
     -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .5);
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .5)
 }
@@ -4478,7 +4482,7 @@ ul.allocation-list li:nth-child(7):before {
     height: 0;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-bottom: 0 solid #3E4095;
+    border-bottom: 0 solid #006736;
     content: "";
     position: absolute;
     bottom: 100%;
@@ -4494,7 +4498,7 @@ ul.allocation-list li:nth-child(7):before {
     transition: all 400ms ease-in;
     opacity: 1;
     bottom: 100%;
-    border-bottom: 20px solid #3E4095
+    border-bottom: 20px solid #006736
 }
 
 .mercury-roadmap .roadmap-item {
@@ -4647,7 +4651,7 @@ ul.allocation-list li:nth-child(7):before {
 
 .roadmap-live-slider .slick-prev:hover:before,
 .roadmap-live-slider .slick-next:hover:before {
-    color: #3E4095;
+    color: #006736;
     opacity: 1
 }
 
@@ -4729,7 +4733,7 @@ ul.allocation-list li:nth-child(7):before {
     border: 6px solid #fff;
     max-width: 230px;
     max-height: 230px;
-    box-shadow: 0 0 0 2px #3E4095
+    box-shadow: 0 0 0 2px #006736
 }
 
 .team-section.style-2 {
@@ -4784,7 +4788,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .team-detils span.position {
-    color: #3E4095;
+    color: #006736;
     font-size: 15px;
     font-weight: 700
 }
@@ -4868,7 +4872,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .c-l .team:hover {
-    background: #3E4095;
+    background: #006736;
     box-shadow: 0 3px 10.27px 2.73px rgba(0, 0, 0, .41)
 }
 
@@ -4881,7 +4885,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .team:hover .team-social a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .team:hover .team-inner img {
@@ -4907,7 +4911,7 @@ ul.allocation-list li:nth-child(7):before {
     top: 0;
     width: 100%;
     height: 5px;
-    background: #3E4095;
+    background: #006736;
     content: "";
     left: 0;
     -webkit-transition: all 400ms;
@@ -4974,7 +4978,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .team-box .team-social ul li a {
-    background: #5253AE;
+    background: #00A354;
     color: #000;
     height: 32px;
     width: 32px;
@@ -5048,7 +5052,7 @@ ul.allocation-list li:nth-child(7):before {
     width: 100%;
     position: relative;
     padding: 6px;
-    border: 1px solid #3E4095;
+    border: 1px solid #006736;
     -webkit-border-radius: 8px;
     border-radius: 8px
 }
@@ -5134,7 +5138,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .blog-date {
-    color: #3E4095
+    color: #006736
 }
 
 .blog-list h4 {
@@ -5150,7 +5154,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .blog-list h4 a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .blog-list {
@@ -5205,7 +5209,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .blog-single-cont h4 a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .blog-slider .blog-list-img {
@@ -5241,7 +5245,7 @@ ul.allocation-list li:nth-child(7):before {
 
 .blog-slider.style-2 .blog-date {
     position: absolute;
-    background: #3E4095;
+    background: #006736;
     border: 2px solid #ebebeb;
     top: 30px;
     right: 0;
@@ -5270,7 +5274,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .c-l .blog-date {
-    background: #3E4095;
+    background: #006736;
     color: #000;
     margin: 0 -15px;
     display: block;
@@ -5334,7 +5338,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .blog-category-meta a {
-    background: #3E4095;
+    background: #006736;
     color: #fff;
     display: inline-block;
     padding: 6px 10px;
@@ -5387,7 +5391,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .diamond-layout .owl-carousel .owl-nav button:hover {
-    background: #3E4095
+    background: #006736
 }
 
 .diamond-layout .owl-nav button span {
@@ -5473,7 +5477,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .blog-grid-layout .footer-meta {
-    background: #3E4095;
+    background: #006736;
     padding: 10px 30px;
     position: absolute;
     bottom: 0;
@@ -5536,7 +5540,7 @@ ul.allocation-list li:nth-child(7):before {
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
-    color: #3E4095
+    color: #006736
 }
 
 .card-header {
@@ -5548,7 +5552,7 @@ ul.allocation-list li:nth-child(7):before {
 }
 
 .card .card-header a:not(.collapsed):before {
-    background: #3E4095;
+    background: #006736;
     height: 3px;
     width: 100%;
     content: "";
@@ -5610,7 +5614,7 @@ ul.allocation-list li:nth-child(7):before {
     position: absolute;
     right: 4px;
     top: 4px;
-    background: #5253AE;
+    background: #00A354;
     text-align: center;
     line-height: 54px;
     font-size: 24px
@@ -5730,7 +5734,7 @@ ul.allocation-list li:nth-child(7):before {
 
 .style-3.accordion .card-header h5:before {
     content: "+";
-    background: #3E4095;
+    background: #006736;
     border-radius: 50px;
     color: #000;
     font-family: poppins, sans-serif;
@@ -5791,7 +5795,7 @@ footer .sec-title h4.widget-title {
 }
 
 .copyrights a {
-    color: #3E4095
+    color: #006736
 }
 
 .footer-box-2 ul {
@@ -5812,7 +5816,7 @@ footer li a {
 }
 
 footer li a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .footer-2 .socials {
@@ -5972,7 +5976,7 @@ footer li a:hover {
 }
 
 .socials li a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .socials li i {
@@ -6139,11 +6143,11 @@ footer li a:hover {
 .footer-3 .socials li:hover a,
 .socials li:hover i,
 .footer-3 .socials li a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .footer-3 .newsletter .submit input {
-    background: #3E4095;
+    background: #006736;
     font-weight: 400;
     line-height: 25px
 }
@@ -6173,7 +6177,7 @@ footer li a:hover {
 
 footer.diamond-footer {
     padding: 0 0;
-    border-top: 5px solid #3E4095
+    border-top: 5px solid #006736
 }
 
 .footer-widget-area {
@@ -6208,7 +6212,7 @@ footer.diamond-footer {
 .contact-info ul li:before {
     opacity: 1;
     font-family: "font awesome 5 free";
-    color: #3E4095;
+    color: #006736;
     font-size: 24px;
     position: absolute;
     top: 0;
@@ -6252,7 +6256,7 @@ footer.diamond-footer {
     height: 48px;
     line-height: 46px;
     text-align: center;
-    color: #5253AE;
+    color: #00A354;
     font-size: 20px;
     display: block;
     -webkit-transition: all 300ms;
@@ -6261,7 +6265,7 @@ footer.diamond-footer {
 }
 
 .widget-area .socials li i {
-    color: #5253AE;
+    color: #00A354;
     font-size: 20px;
     -webkit-transition: all 400ms;
     transition: all 400ms;
@@ -6271,7 +6275,7 @@ footer.diamond-footer {
 .widget-area .socials ul li a:hover,
 .widget-area .socials ul li:hover a {
     color: #000;
-    background: #5253AE
+    background: #00A354
 }
 
 .widget-area .socials li:hover i,
@@ -6352,7 +6356,7 @@ ul.horizontal-menu li:not(:last-child):after {
     content: "";
     margin: 0 12px;
     display: inline-block;
-    background: #5253AE;
+    background: #00A354;
     -webkit-border-radius: 5px;
     border-radius: 5px;
     position: relative;
@@ -6413,7 +6417,8 @@ ul.horizontal-menu li a {
     border-radius: 0;
     padding-right: 15px;
     width: calc(100% - 160px);
-    margin-right: 10px
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .platinum-footer .newsletter button::before {
@@ -6529,7 +6534,7 @@ ul.horizontal-menu li a {
     line-height: inherit;
     margin-right: 6px;
     vertical-align: top;
-    color: #3E4095
+    color: #006736
 }
 
 .sidebar .widget-title {
@@ -6581,7 +6586,7 @@ ul.horizontal-menu li a {
 }
 
 .sidebar .widget>ul li a:hover {
-    color: #3E4095
+    color: #006736
 }
 
 .widget_tag_cloud .tagcloud a {
@@ -6600,9 +6605,9 @@ ul.horizontal-menu li a {
 
 .widget_tag_cloud .tagcloud a:hover {
     text-decoration: none;
-    background: #3E4095;
+    background: #006736;
     color: #fff;
-    border: 1px solid #3E4095
+    border: 1px solid #006736
 }
 
 .Recent_Posts li {
@@ -6643,7 +6648,7 @@ ul.horizontal-menu li a {
     position: relative;
     display: block;
     font-size: 13px;
-    color: #3E4095;
+    color: #006736;
     margin-top: 10px
 }
 
@@ -6663,8 +6668,8 @@ ul.horizontal-menu li a {
 }
 
 .post-tags-list a:hover {
-    background-color: #3E4095;
-    border: 1px solid #3E4095;
+    background-color: #006736;
+    border: 1px solid #006736;
     color: #fff
 }
 
@@ -6898,7 +6903,7 @@ ul.horizontal-menu li a {
 }
 
 .contact-details h4 {
-    color: #3E4095;
+    color: #006736;
     font-weight: 700
 }
 
@@ -6978,7 +6983,7 @@ ul.horizontal-menu li a {
 
 .cls-1 {
     fill: none;
-    stroke: #3E4095;
+    stroke: #006736;
     stroke-width: 1.5px;
     fill-rule: evenodd;
     stroke-dasharray: 1000;
@@ -6992,7 +6997,7 @@ ul.horizontal-menu li a {
 .cls-2 {
     opacity: 0;
     visibility: hidden;
-    fill: #3E4095
+    fill: #006736
 }
 
 .visible .cls-2 {
@@ -7043,7 +7048,7 @@ ul.horizontal-menu li a {
 }
 
 .form-block h2.widget-title span {
-    color: #3E4095;
+    color: #006736;
     display: block;
     font-size: 20px;
     font-weight: 400;
@@ -7051,7 +7056,7 @@ ul.horizontal-menu li a {
 }
 
 .icon-box .icon {
-    background: #3E4095;
+    background: #006736;
     height: 90px;
     width: 90px;
     border-radius: 90px;
@@ -7330,7 +7335,7 @@ h4.widget-title {
 }
 
 .video-section .play-button a {
-    background: #3E4095 url(images/play-btn.html) no-repeat scroll 0 0;
+    background: #006736 url(images/play-btn.html) no-repeat scroll 0 0;
     height: 150px;
     width: 150px;
     display: block;
@@ -7488,7 +7493,7 @@ h4.widget-title {
     -webkit-border-radius: 50%;
     border-radius: 50%;
     cursor: pointer;
-    background: #3E4095
+    background: #006736
 }
 
 .slick-slider .slick-dots .slick-active button {
@@ -7616,7 +7621,7 @@ h4.widget-title {
 .social-login a {
     color: #1d1d1d;
     padding: 8px 20px;
-    background: #3E4095;
+    background: #006736;
     -webkit-border-radius: 4px;
     border-radius: 4px;
     font-weight: 700;

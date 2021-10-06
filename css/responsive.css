@@ -737,17 +737,17 @@
 
     .menu-icon.active .middle {
         opacity: 0;
-        background: #3E4095
+        background: #006736
     }
 
     .menu-icon.active .bottom {
         -webkit-tra1nsform: translateY(-10px) translateX(0) rotate(-45deg);
         transform: translateY(-10px) translateX(0) rotate(-45deg);
-        background: #3E4095
+        background: #006736
     }
 
     .menu-icon span {
-        background: #3E4095;
+        background: #006736;
         border: none;
         height: 3px;
         width: 100%;
@@ -840,7 +840,7 @@
     }
 
     .hero-left {
-        padding-top: 20px;
+        padding-top: 0px;
         text-align: center
     }
 
@@ -1078,7 +1078,7 @@
         width: 0;
         height: 0;
         border-top: 8px solid transparent;
-        border-right: 13px solid #3E4095;
+        border-right: 13px solid #006736;
         border-left: none;
         border-bottom: 8px solid transparent;
         content: "";

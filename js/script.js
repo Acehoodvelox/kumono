@@ -369,7 +369,7 @@ $(document).ready(function ($) {
                     size: 160,
                     emptyFill: "#a5a5a4",
                     fill: {
-                        color: '#5253AE'
+                        color: '#00A354'
                     }
                 }).on('circle-animation-progress', function (event, progress, stepValue) {
                     $(this).find('div').text((stepValue * 100).toFixed(1) + "%");
